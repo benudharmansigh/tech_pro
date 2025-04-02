@@ -1,0 +1,10 @@
+com\promotionengine\promotion\repository\PromotionRepository.class
+com\promotionengine\promotion\controller\CartController.class
+com\promotionengine\promotion\controller\PromotionController.class
+com\promotionengine\promotion\EngineApplication.class
+com\promotionengine\promotion\service\PromotionEngineService.class
+com\promotionengine\promotion\repository\ProductRepository.class
+com\promotionengine\promotion\model\CartItem.class
+com\promotionengine\promotion\model\Product.class
+com\promotionengine\promotion\model\Promotion.class
+com\promotionengine\promotion\repository\CartRepository.class
